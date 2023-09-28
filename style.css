@@ -1,0 +1,46 @@
+.word{
+    width: 20rem;
+    border-radius: 8px;
+}
+
+.chickenhome{
+padding: 3rem;
+display: flex;
+flex-direction: column;
+gap: 1rem;
+align-items: center;
+}
+
+.cat-wrap{
+   padding: 4rem;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.majic-stuff{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    
+}
+
+
+#chickenBtn{
+    max-width: 12rem;
+    
+}
+
+.but-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.steeze{
+    display: flex;
+    justify-content: space-around;
+    padding: 4rem;
+}
